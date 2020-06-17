@@ -15,13 +15,13 @@
 ### FlowChart
 ![](https://ahmetozel.github.io/instagram_data_scraping_solution/flow-chart.png)
 
-### Pricing
-[View to prices](https://ahmetozel.github.io/instagram_data_scraping_solution/pricing.html "View to prices")
-
 ### Example data
 For example, If you scrape the @spacex ig account with our software, you will get as follows a json.
 <br>
 [View to data](https://jsonformatter.org/json-viewer/99ed3c "View to data")
+
+### Pricing
+[View to prices](https://ahmetozel.github.io/instagram_data_scraping_solution/pricing.html "View to prices")
 
 ### Our website
 [Go to](https://ahmetozel.github.io/instagram_data_scraping_solution/index.html "Go to")
