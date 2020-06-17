@@ -27,7 +27,7 @@ For example, If you scrape the @spacex ig account with our software, you will ge
 [Go to](https://ahmetozel.github.io/instagram_data_scraping_solution/index.html "Go to")
 
 ### Support & Sales & Contact
-[Whatsapp](window.open(atob("aHR0cHM6Ly93YS5tZS85MDU0NjU5MTM5MDQ=") , '_blank'); "Whatsapp")
+
 
 ### Languages
 ![](https://ahmetozel.github.io/instagram_data_scraping_solution/usa.png)![](https://ahmetozel.github.io/instagram_data_scraping_solution/turkey.png)
